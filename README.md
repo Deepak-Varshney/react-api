@@ -75,7 +75,7 @@ You can view the source code and contribute to this project on GitHub:
 ## Deployment
 
 This is the live link for this project 
-[visit here](https/)
+[visit here](https://react-api-plum.vercel.app/)
 
 ## Technologies Used
 
